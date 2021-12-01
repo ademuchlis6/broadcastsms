@@ -9,7 +9,7 @@ simple tool to broadcast your message with react antd and php
 I add key.json in public so not just anyone can use it. maybe it's needed
 you can change the key
 
-also pay attention to the database connection in the php file
+also pay attention to the database connection in the php file, and axios connection
 depending on your needs, just adjust..
 if you use gammu maybe you can insert the message in the outbox
 then gammu service will send your message
